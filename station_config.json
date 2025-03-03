@@ -1,0 +1,13 @@
+{
+  "AngelInvestor Station": ["15897"],
+  "Startup Station": ["15896"],
+  "Corporate Station": ["15895"],
+  "Student Station": ["15863"],
+  "Visitor Station": ["15898"],
+  "Investor Station": ["15899"],
+  "Media Station": ["20522"],
+  "Scaleup Station": ["15895"],
+  "Attendee Station": ["15897"],
+  "Team Station": ["20618"],
+  "Universal Station": ["15897", "15896", "15895", "15863", "15898", "15899", "20522", "15895", "15897", "20618", "00000"]
+}

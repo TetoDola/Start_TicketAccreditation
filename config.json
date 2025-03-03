@@ -1,0 +1,13 @@
+{
+    "api_key": "patUOJzv4ITnshnxa.363ba1426fe71333a7ca410ec59254c1e918ff98ee81b18d521e11ed54265d70",
+    "base_id": "appLSXZP5gbdkcnab",
+    "AttendeesTable": "Attendees",
+    "AccreditationUserTable": "AccreditationUser",
+    "LogsTable": "AccreditationLogs",
+    "Computer_Id": "Computer_1",
+    "Font_Path": "Avenir Next.ttc",
+    "ApplicationsTable": "Applications",
+    "FormatsTable": "Formats",
+    "PrivilegesTable": "Privileges",
+    "Group_Ids_Without_Company": ["15864"]
+}
