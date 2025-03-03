@@ -9,7 +9,7 @@ with open('config.json', 'r') as config_file:
     api_key = config['api_key']
     base_id = config['base_id']
     AccreditationUserTable = config['AccreditationUserTable']
-    AttendeesTable = config['AttendeesTable']
+    AttendeesTable = config['AttendeesTable']#s
     LogsTable = config['LogsTable']
     Computer_id = config['Computer_Id']
     ApplicationsTable = config['ApplicationsTable']
